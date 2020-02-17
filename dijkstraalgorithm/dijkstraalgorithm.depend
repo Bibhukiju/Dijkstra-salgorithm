@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1581932847 source:d:\apex\dijkstraalgorithm\main.cpp
+1581939360 source:d:\apex\dijkstraalgorithm\main.cpp
 	<iostream>
 	<graphics.h>
+	<math.h>
 
